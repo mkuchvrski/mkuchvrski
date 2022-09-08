@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkuchvrski. Welcome to my github.
-- 👀 I’m civil engineering graduate with 3 years of professional experience. I'm interested in Machine Learning and Data Science.
+- 👀 I’m civil engineering graduate with 3 years of professional experience. I'm interested in Data Science and statistical learning methods. I've finished python and machine learning bootcamps and currently I'm focues on more hands-on approach to build my portfolio.
 - 🌱 I’m currently learning advanced python and statistical learning topics (Introduction to Statistical Learning book).
 - 💞️ I’m looking for my first commercial experience in Big Data.
 
