@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @mkuchvrski. Welcome to my github.
-- 👀 I’m civil engineering graduate with 3 years of professional experience. I'm interested in Data Science and statistical learning methods. I've finished python and machine learning bootcamps and currently I'm focues on more hands-on approach to build my portfolio.
-- 🌱 I’m currently learning advanced python and statistical learning topics (Introduction to Statistical Learning book).
-- 💞️ I’m looking for my first commercial experience in Big Data.
+About me:
+I am a civil engineering graduate with 3 years of professional experience, and I am looking for new opportunities and challenges in the IT industry. I am a hardworking and highly motivated person. During my career, I have acquired valuable skill sets such as analytical thinking, problem solving and communications. My English skills have been improved by one semester of studies abroad, and one year of work at foreign infrastructure projects. I have finished Python, Python for Data Science and Machine Learning Bootcamps, as well as a few other online courses. During the courses, I worked with various Python libraries on many Kaggle's datasets.
+
+My courses:
+
+![image](https://i.ibb.co/ZK5Pn6x/certyfikaty.png)
 
 Reach me out on my [LinkedIn Profile](https://www.linkedin.com/in/mikolaj-kucharski/).
 
@@ -24,6 +27,9 @@ Check my projects below.
 - [Mail - SPAM/HAM - NLP](https://github.com/mkuchvrski/SpamHam_NLP.git) - Spam/ham classification using Natural Language Processing.
 
 
+Besides ML:
+
+![image](https://i.ibb.co/K2pQ0sT/hobbies.png)
 
 <!---
 mkuchvrski/mkuchvrski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
