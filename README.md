@@ -5,10 +5,22 @@
 
 Reach me out on my [LinkedIn Profile](https://www.linkedin.com/in/mikolaj-kucharski/).
 
+Check my projects below.
+
+
+## Linear Regression models:
+- [USA Housing - Linear Regression](https://github.com/mkuchvrski/LR_USA_Housing) - Linear Regression model to predict prices of house based on data.
+
+## Classification models:
+- [Iris Dataset - Support Vector Machines](https://github.com/mkuchvrski/iris) - Working with one of the most common datasets called Iris. Prediction of iris type based on its features.
+
+
+
 CV:
 
 
 ![image](https://i.postimg.cc/1z60xFxV/CV-MIKOLAJ-KUCHARSKI-eng-09-2022-private.png)
+
 <!---
 mkuchvrski/mkuchvrski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
