@@ -25,11 +25,6 @@ Check my projects below.
 
 
 
-CV:
-
-
-![image](https://i.postimg.cc/1z60xFxV/CV-MIKOLAJ-KUCHARSKI-eng-09-2022-private.png)
-
 <!---
 mkuchvrski/mkuchvrski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
