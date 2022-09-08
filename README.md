@@ -20,6 +20,9 @@ Check my projects below.
 - [K-Nearest Neighbors](https://github.com/mkuchvrski/KNN_project/blob/main/KNN_project.ipynb) - classification problem solved using K-Nearest Neighbors.
 - [Iris Dataset - Support Vector Machines](https://github.com/mkuchvrski/iris) - Working with one of the most common datasets called Iris. Prediction of iris type based on its features.
 
+## Natural Language Processing
+- [Mail - SPAM/HAM - NLP](https://github.com/mkuchvrski/SpamHam_NLP.git) - Spam/ham classification using Natural Language Processing.
+
 
 
 CV:
