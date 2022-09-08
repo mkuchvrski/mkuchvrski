@@ -4,6 +4,10 @@ About me:
 
 I am a civil engineering graduate with 3 years of professional experience, and I am looking for new opportunities and challenges in the IT industry. I am a hardworking and highly motivated person. During my career, I have acquired valuable skill sets such as analytical thinking, problem solving and communications. My English skills have been improved by one semester of studies abroad, and one year of work at foreign infrastructure projects. I have finished Python, Python for Data Science and Machine Learning Bootcamps, as well as a few other online courses. During the courses, I worked with various Python libraries on many Kaggle's datasets.
 
+Currently learning:
+- advanced python
+- Statistical learning (Introduction to Statistical Learning textbook)
+
 My courses:
 
 ![image](https://i.ibb.co/ZK5Pn6x/certyfikaty.png)
