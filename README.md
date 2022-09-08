@@ -15,6 +15,7 @@ Check my projects below.
 - [Titanic dataset - Logistic Regression](https://github.com/mkuchvrski/titanic) - Use of Logistic Regression to predict if one will survive on Titanic.
 
 ## Classification Problem projects:
+- [K-Nearest Neighbors](https://github.com/mkuchvrski/KNN_project/blob/main/KNN_project.ipynb) - classification problem solved using K-Nearest Neighbors.
 - [Iris Dataset - Support Vector Machines](https://github.com/mkuchvrski/iris) - Working with one of the most common datasets called Iris. Prediction of iris type based on its features.
 
 
