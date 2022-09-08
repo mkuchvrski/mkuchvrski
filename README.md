@@ -16,6 +16,7 @@ Check my projects below.
 
 ## Classification Problem projects:
 - [Breast Cancer Recognition -  Support Vector Machines](https://github.com/mkuchvrski/Breast_Cancer_SVM) - Classification problem solved using Support Vector Machines.
+- [Blobs - KMeans](https://github.com/mkuchvrski/Blobs_KMeans) - KMeans practices on randomly created BLOBS.
 - [K-Nearest Neighbors](https://github.com/mkuchvrski/KNN_project/blob/main/KNN_project.ipynb) - classification problem solved using K-Nearest Neighbors.
 - [Iris Dataset - Support Vector Machines](https://github.com/mkuchvrski/iris) - Working with one of the most common datasets called Iris. Prediction of iris type based on its features.
 
