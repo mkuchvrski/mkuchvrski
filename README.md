@@ -12,7 +12,7 @@ Check my projects below.
 - [USA Housing - Linear Regression](https://github.com/mkuchvrski/LR_USA_Housing) - Linear Regression model to predict prices of house based on data.
 
 ## Logistic Regression projects:
-- [Titanic dataset - Logistic Regression] (https://github.com/mkuchvrski/titanic) - Use of Logistic Regression to predict if one will survive on Titanic.
+- [Titanic dataset - Logistic Regression](https://github.com/mkuchvrski/titanic) - Use of Logistic Regression to predict if one will survive on Titanic.
 
 ## Classification Problem projects:
 - [Iris Dataset - Support Vector Machines](https://github.com/mkuchvrski/iris) - Working with one of the most common datasets called Iris. Prediction of iris type based on its features.
