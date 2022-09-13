@@ -33,6 +33,10 @@ Check my projects below.
 - [Mail - SPAM/HAM - NLP](https://github.com/mkuchvrski/SpamHam_NLP.git) - Spam/ham classification using Natural Language Processing.
 
 
+## Python Practice
+- [Snake Game ](https://github.com/mkuchvrski/snake_game) - Classsic Snake Game based on 100 days of Code bootcamp by Dr Angela Yu.
+
+
 Besides ML:
 
 ![image](https://i.ibb.co/K2pQ0sT/hobbies.png)
