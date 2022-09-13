@@ -38,9 +38,6 @@ Check my projects below.
 - [Pong Game](https://github.com/mkuchvrski/pong-game) - Ponga Game based on 100 days of Code bootcamp by Dr Angela Yu.
 
 
-In free time:
-
-![image](https://i.ibb.co/K2pQ0sT/hobbies.png)
 
 <!---
 mkuchvrski/mkuchvrski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
