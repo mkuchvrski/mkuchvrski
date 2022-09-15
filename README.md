@@ -36,6 +36,7 @@ Check my projects below.
 ## Python Practice
 - [Snake Game ](https://github.com/mkuchvrski/snake_game) - Classsic Snake Game based on 100 days of Code bootcamp by Dr Angela Yu.
 - [Pong Game](https://github.com/mkuchvrski/pong-game) - Ponga Game based on 100 days of Code bootcamp by Dr Angela Yu.
+- [Turtle Crossing](https://github.com/mkuchvrski/turtle-crossing.git) - Turtle Crossing game based on 100 days of Code bootcamp by Dr Angela Yu.
 
 
 
