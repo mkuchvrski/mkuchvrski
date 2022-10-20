@@ -34,10 +34,10 @@ Check my projects below.
 
 
 ## Python Practice
-- [Pomodoro Tracker App](https://github.com/mkuchvrski/pomodorro_app) - Pomodoro app to increase your productivity by working/break sessions based on 100 days of Code bootcamp by Dr Angela Yu.
-- [Snake Game ](https://github.com/mkuchvrski/snake_game) - Classsic Snake Game based on 100 days of Code bootcamp by Dr Angela Yu.
-- [Pong Game](https://github.com/mkuchvrski/pong-game) - Ponga Game based on 100 days of Code bootcamp by Dr Angela Yu.
-- [Turtle Crossing](https://github.com/mkuchvrski/turtle-crossing.git) - Turtle Crossing game based on 100 days of Code bootcamp by Dr Angela Yu.
+- [Pomodoro Tracker App](https://github.com/mkuchvrski/pomodorro_app) - Pomodoro app to increase your productivity by working/break sessions
+- [Snake Game ](https://github.com/mkuchvrski/snake_game) - Classsic Snake Game 
+- [Pong Game](https://github.com/mkuchvrski/pong-game) - Ponga Game
+- [Turtle Crossing](https://github.com/mkuchvrski/turtle-crossing.git) - Turtle Crossing game
 
 
 
