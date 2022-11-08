@@ -5,7 +5,7 @@ About me:
 I am a civil engineering graduate with 3 years of professional experience, and I am looking for new opportunities and challenges in the IT industry. I am a hardworking and highly motivated person. During my career, I have acquired valuable skill sets such as analytical thinking, problem solving and communications. My English skills have been improved by one semester of studies abroad, and one year of work at foreign infrastructure projects. I have finished Python, Python for Data Science and Machine Learning Bootcamps, as well as a few other online courses. During the courses, I worked with various Python libraries on many Kaggle's datasets.
 
 Currently learning:
-- advanced python
+- fastAI Deep Learning course by Jeremy Howard
 - Statistical learning (Introduction to Statistical Learning textbook)
 
 My courses:
@@ -16,6 +16,8 @@ Reach me out on my [LinkedIn Profile](https://www.linkedin.com/in/mikolaj-kuchar
 
 Check my projects below.
 
+## Deep Learning
+- [Rose or not - Computer Vision with fastAI](https://github.com/mkuchvrski/rose-or-not) - model recognizing roses base on fastAI course by Jeremy Howard.
 
 ## Linear Regression projects:
 - [USA Housing - Linear Regression](https://github.com/mkuchvrski/LR_USA_Housing) - Linear Regression model to predict prices of house based on data.
